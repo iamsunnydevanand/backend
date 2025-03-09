@@ -10,7 +10,7 @@ import com.example.demo.intity.Intity;
 
 
 @RestController
-@CrossOrigin(origins = "https://my-react-app-u9qm.vercel.app")
+@CrossOrigin(origins = "https://my-react-app-u9qm.vercel.app/agent")
 public class Controller {
 
 
